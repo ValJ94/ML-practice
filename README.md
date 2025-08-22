@@ -12,14 +12,6 @@ The goal of this repo is to build up a collection of small, focused scripts that
 
 ## Current Scripts
 
-### 1. Logistic Regression on Wine Dataset
-- Uses the classic **Wine dataset**.
-- Workflow:
-  - Train/test split
-  - Feature scaling
-  - Logistic regression training
-  - Accuracy, classification report, and confusion matrix
-
 ### 2. Logistic Regression on Wine Dataset
 - Uses the **Wine dataset** (3 wine classes).
 - Workflow:
